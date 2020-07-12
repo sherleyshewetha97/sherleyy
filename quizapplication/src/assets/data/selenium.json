@@ -5,7 +5,7 @@
     "questions": [
         {
             "id": 1010,
-            "name": "If you want to validate that a button has appeared on a page, which two commands would be the best two to use?",
+            "name": "If you want to validate that a button has appeared on a page, which command would be the best to use?",
             "questionTypeId": 1,
             "options": [
                 {
