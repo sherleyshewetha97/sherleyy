@@ -2,7 +2,7 @@
     "id": 1,
     "name": "Angular JS Quiz",
     "description": "Questions on Angular JS",
-    "questions": [
+    "answers": [
         {
             "id": 1010,
             "name": "Which community Angular JS belongs to?",
